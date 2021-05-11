@@ -1,0 +1,6 @@
+joblib==0.16.0
+numpy
+pandas
+scikit-learn
+streamlit
+import_ipynb
